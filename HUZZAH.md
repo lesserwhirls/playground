@@ -1,8 +1,10 @@
-# HOORAY!
+# HUZZAH!
 # New and effective change
-# HOORAY!
-# HOORAY!
-# HOORAY!
-# HOORAY!
-# HOORAY!
-# HOORAY!
+# HUZZAH!
+# HUZZAH!
+# HUZZAH!
+# HUZZAH!
+# HUZZAH!
+# HUZZAH!
+
+Just say no to greed!
