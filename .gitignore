@@ -1,3 +1,5 @@
 # Ignore unwanted PyCharm project files
 .idea/
-
+# Ignore notebook checkpoints 
+.ipynb_checkpoints/
+	Untitled.ipynb
